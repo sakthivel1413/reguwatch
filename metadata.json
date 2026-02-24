@@ -1,0 +1,5 @@
+{
+  "name": "ReguWatch Canada",
+  "description": "A regulatory compliance monitoring tool for Canadian financial and insurance sectors, helping firms track updates from FSRA, CIRO, and OSFI without expensive data APIs by leveraging Gemini's real-time search capabilities.",
+  "requestFramePermissions": []
+}

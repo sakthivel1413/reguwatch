@@ -1,0 +1,632 @@
+[
+    {
+        "id": "OSFI_7942470036578153456",
+        "title": "Superintendent Peter Routledge participates in a fireside chat with Mortgage Professionals Canada",
+        "date": "February 17, 2026",
+        "link": "https://www.osfi-bsif.gc.ca/en/news/superintendent-peter-routledge-participates-fireside-chat-mortgage-professionals-canada",
+        "summary": "Speech - Virtual - February 17, 2026",
+        "source": "OSFI",
+        "type": "Web Scraping",
+        "timestamp": "2026-02-24T05:25:21.738732"
+    },
+    {
+        "id": "OSFI_-4370417633032092579",
+        "title": "Superintendent Routledge participates in a fireside chat at the 2026 CatIQ conference",
+        "date": "February 4, 2026",
+        "link": "https://www.osfi-bsif.gc.ca/en/news/superintendent-routledge-participates-fireside-chat-2026-catiq-conference",
+        "summary": "Speech - Toronto - February 4, 2026",
+        "source": "OSFI",
+        "type": "Web Scraping",
+        "timestamp": "2026-02-24T05:25:22.249991"
+    },
+    {
+        "id": "OSFI_1870938452853355279",
+        "title": "Superintendent Routledge participates in a fireside chat at TD Annual Conference",
+        "date": "January 30, 2026",
+        "link": "https://www.osfi-bsif.gc.ca/en/news/superintendent-routledge-participates-fireside-chat-td-annual-conference",
+        "summary": "Speech - Toronto - January 30, 2026",
+        "source": "OSFI",
+        "type": "Web Scraping",
+        "timestamp": "2026-02-24T05:25:22.913515"
+    },
+    {
+        "id": "OSFI_627680103621565106",
+        "title": "Theresa Hinz, Executive Director of Policy and Risk Response, delivers remarks for OSFI\u2019s Quarterly Release Day",
+        "date": "January 29, 2026",
+        "link": "https://www.osfi-bsif.gc.ca/en/news/theresa-hinz-executive-director-policy-risk-response-delivers-remarks-osfis-quarterly-release-day",
+        "summary": "Speech - Ottawa - January 29, 2026",
+        "source": "OSFI",
+        "type": "Web Scraping",
+        "timestamp": "2026-02-24T05:25:23.400547"
+    },
+    {
+        "id": "OSFI_8557398351193824321",
+        "title": "OSFI\u2019s Quarterly Release: continuing to advance smart, well-calibrated risk-taking",
+        "date": "January 29, 2026",
+        "link": "https://www.osfi-bsif.gc.ca/en/news/osfis-quarterly-release-continuing-advance-smart-well-calibrated-risk-taking",
+        "summary": "News release - Ottawa - January 29, 2026",
+        "source": "OSFI",
+        "type": "Web Scraping",
+        "timestamp": "2026-02-24T05:25:23.979918"
+    },
+    {
+        "id": "FCAC_-5029990847506676230",
+        "title": "FCAC announces an administrative monetary penalty paid by the Bank of Montreal",
+        "date": "February 02, 2026",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2026/01/fcac-announces-an-administrative-monetary-penalty-paid-by-the-bank-of-montreal.html",
+        "summary": "FCAC announces an administrative monetary penalty paid by the Bank of Montreal",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.727972"
+    },
+    {
+        "id": "FCAC_-445986196330574275",
+        "title": "Opening statement to the Standing Senate Committee on Banking, Commerce and the Economy (BANC) by Commissioner Shereen Benzvy Miller",
+        "date": "February 02, 2026",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2026/02/opening-statement-to-the-standing-senate-committee-on-banking-commerce-and-the-economy-banc-by-commissioner-shereen-benzvy-miller.html",
+        "summary": "Opening statement to the Standing Senate Committee on Banking, Commerce and the Economy (BANC) by Commissioner Shereen Benzvy Miller, on February 4, 2026, in Ottawa, Ontario.",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728004"
+    },
+    {
+        "id": "FCAC_-6693659085465177871",
+        "title": "FCAC launches ad campaign to help Canadians make the most of their money",
+        "date": "February 02, 2026",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2026/01/fcac-launches-ad-campaign-to-help-canadians-make-the-most-of-their-money.html",
+        "summary": "Today, the Financial Consumer Agency of Canada (FCAC) launched a national advertising campaign to help Canadians manage their money and navigate financial challenges in a complex and changing economy.",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728022"
+    },
+    {
+        "id": "FCAC_1325526281070145511",
+        "title": "Financial Industry Forum on Artificial Intelligence workshop: interim report",
+        "date": "December 22, 2025",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2025/12/financial-industry-forum-on-artificial-intelligence-workshop-interim-report.html",
+        "summary": "Financial Industry Forum on Artificial Intelligence workshop: interim report",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728038"
+    },
+    {
+        "id": "FCAC_-2814703946719731440",
+        "title": "Canadians can now access free and low-cost bank accounts featuring more monthly transactions",
+        "date": "December 01, 2025",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2025/11/canadians-can-now-access-free-and-low-cost-bank-accounts-featuring-more-monthly-transactions.html",
+        "summary": "Canadians can now access free and low-cost bank accounts featuring more monthly transactions",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728053"
+    },
+    {
+        "id": "FCAC_-4211516103931131702",
+        "title": "Speech at the Canadian Institute\u2019s 31st Flagship Conference on Regulatory Compliance for Financial Institutions by Director of Supervision Jaspal Matharu",
+        "date": "November 25, 2025",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2026/01/speech-at-the-canadian-institutes-31st-flagship-conference-on-regulatory-compliance-for-financial-institutions-by-director-of-supervision-jaspal-ma.html",
+        "summary": "Speech at the Canadian Institute\u2019s 31st Flagship Conference on Regulatory Compliance for Financial Institutions by Director of Supervision Jaspal Matharu",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728067"
+    },
+    {
+        "id": "FCAC_-3498636830295027646",
+        "title": "Survey findings offer glimpse into how Canadians seek financial advice",
+        "date": "November 17, 2025",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2025/11/survey-findings-offer-glimpse-into-how-canadians-seek-financial-advice.html",
+        "summary": "Survey findings offer glimpse into how Canadians seek financial advice",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728085"
+    },
+    {
+        "id": "FCAC_7125530223561989497",
+        "title": "Financial Literacy Month 2025: Let\u2019s break the stigma and Talk Money!",
+        "date": "October 31, 2025",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2025/10/financial-literacy-month-2025-lets-break-the-stigma-and-talk-money.html",
+        "summary": "Financial Literacy Month 2025: Let\u2019s break the stigma and Talk Money!",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728099"
+    },
+    {
+        "id": "FCAC_2151878386137514394",
+        "title": "FCAC announces an administrative monetary penalty paid by the Toronto-Dominion Bank",
+        "date": "September 29, 2025",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2025/09/fcac-announces-an-administrative-monetary-penalty-paid-by-the-toronto-dominion-bank.html",
+        "summary": "FCAC announces an administrative monetary penalty paid by the Toronto-Dominion Bank",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728113"
+    },
+    {
+        "id": "FCAC_1417933883510882398",
+        "title": "Statement by FCAC Commissioner Benzvy Miller on FCAC\u2019s commitment to regulatory efficiency",
+        "date": "September 09, 2025",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2025/09/statement-by-fcac-commissioner-benzvy-miller-on-fcacs-commitment-to-regulatory-efficiency.html",
+        "summary": "Statement by FCAC Commissioner Benzvy Miller on FCAC\u2019s commitment to regulatory efficiency",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728127"
+    },
+    {
+        "id": "FCAC_2998137318005729772",
+        "title": "FCAC calls on banks to improve handling of consumer complaints",
+        "date": "July 31, 2025",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2025/07/fcac-calls-on-banks-to-improve-handling-of-consumer-complaints.html",
+        "summary": "FCAC calls on banks to improve handling of consumer complaints",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728143"
+    },
+    {
+        "id": "FCAC_2166154981500840801",
+        "title": "Canadians to benefit from enhanced free and low-cost bank accounts this year",
+        "date": "March 20, 2025",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2025/03/canadians-to-benefit-from-enhanced-free-and-low-cost-bank-accounts-this-year-march-13-2025.html",
+        "summary": "Canadians to benefit from enhanced free and low-cost bank accounts later this year",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728157"
+    },
+    {
+        "id": "FCAC_-2475953682378483222",
+        "title": "FCAC calls on banks to ensure their customers are fully benefiting from e-alerts",
+        "date": "March 20, 2025",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2025/03/fcac-calls-on-banks-to-ensure-their-customers-are-fully-benefiting-from-e-alerts.html",
+        "summary": "L\u2019ACFC demande aux banques de s\u2019assurer que leurs clients b\u00e9n\u00e9ficient pleinement des alertes \u00e9lectroniques",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728171"
+    },
+    {
+        "id": "FCAC_6461877532853259283",
+        "title": "Statement by FCAC Commissioner Benzvy Miller recognizing International Women\u2019s Day 2025",
+        "date": "March 07, 2025",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2025/02/statement-by-fcac-commissioner-benzvy-miller-recognizing-international-womens-day-2025.html",
+        "summary": "Statement by FCAC Commissioner Benzvy Miller recognizing International Women\u2019s Day 2025",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728184"
+    },
+    {
+        "id": "FCAC_-6197530120498450439",
+        "title": "Canadians benefit from mortgage relief measures through FCAC\u2019s actions",
+        "date": "December 19, 2024",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2024/12/canadians-benefit-from-mortgage-relief-measures-through-fcacs-actions.html",
+        "summary": "Canadians benefit from mortgage relief measures through FCAC\u2019s actions",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728198"
+    },
+    {
+        "id": "FCAC_3753899477365542226",
+        "title": "Opening statement to the\u202fStanding Committee on Industry and Technology (INDU) by Commissioner Shereen Benzvy Miller",
+        "date": "November 29, 2024",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2024/11/opening-statement-to-thestanding-committee-on-industry-and-technology-indu-by-by-commissioner-shereen-benzvy-miller.html",
+        "summary": "Opening statement to the\u202fStanding Committee on Industry and Technology (INDU) by Commissioner Shereen Benzvy Miller",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728211"
+    },
+    {
+        "id": "FCAC_5805884263885851583",
+        "title": "Opening statement to the\u202fStanding Committee on Industry and Technology (INDU) by Dr. Supriya Syal, Deputy Commissioner, Research, Policy and Education",
+        "date": "November 18, 2024",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2024/11/discours-douverture-devant-lecomite-permanent-de-lindustrie-et-de-la-technologie-indu-par-supriya-syal-phd-commissaire-adjointe-recherche-politique.html",
+        "summary": "Opening statement to the\u202fStanding Committee on Industry and Technology (INDU) by Dr. Supriya Syal, Deputy Commissioner, Research, Policy and Education",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728224"
+    },
+    {
+        "id": "FCAC_7838001014116676419",
+        "title": "Canadians now have a single external complaints body for banking",
+        "date": "November 01, 2024",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2024/10/canadians-now-have-a-single-external-complaints-body-for-banking.html",
+        "summary": "Canadians now have a single external complaints body for banking",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728237"
+    },
+    {
+        "id": "FCAC_-3716624811225641598",
+        "title": "Canadians encouraged to talk money as FCAC launches Financial Literacy Month 2024",
+        "date": "November 01, 2024",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2024/10/canadians-encouraged-to-talk-money-in-november-financial-consumer-agency-of-canada-launches-financial-literacy-month-2024.html",
+        "summary": "Canadians encouraged to talk money as FCAC launches Financial Literacy Month 2024",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728250"
+    },
+    {
+        "id": "FCAC_2778920984383793469",
+        "title": "Financial Literacy Month launch event",
+        "date": "October 31, 2024",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2024/10/financial-literacy-month-launch-event-from-financial-consumer-agency-of-canada.html",
+        "summary": "Financial Literacy Month launch event From: Financial Consumer Agency of Canada",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728263"
+    },
+    {
+        "id": "FCAC_-2624540287622475829",
+        "title": "FCAC welcomes new mandate to oversee Canada\u2019s Consumer-Driven Banking Framework",
+        "date": "July 03, 2024",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2024/06/fcac-welcomes-new-mandate-to-oversee-canadas-consumer-driven-banking-framework.html",
+        "summary": "FCAC welcomes new mandate to oversee Canada\u2019s Consumer-Driven Banking Framework",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728275"
+    },
+    {
+        "id": "FCAC_-3909810674874649158",
+        "title": "Opening statement to the House Finance Committee (FINA) by Interim Commissioner Werner Liedtke",
+        "date": "June 14, 2024",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2024/06/opening-statement-to-the-house-finance-committee-fina-by-interim-commissioner-werner-liedtke.html",
+        "summary": "Opening statement to the House Finance Committee (FINA) by Interim Commissioner Werner Liedtke",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728288"
+    },
+    {
+        "id": "FCAC_-2153519340137796350",
+        "title": "Opening statement to the Senate Standing Committee on National Finance (NFFN) by Interim Commissioner Werner Liedtke",
+        "date": "June 14, 2024",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2024/06/opening-statement-by-interim-commissioner-werner-liedtke.html",
+        "summary": "Opening statement to the Senate Standing Committee on National Finance (NFFN) by Interim Commissioner Werner Liedtke",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728301"
+    },
+    {
+        "id": "FCAC_-1448388429365183080",
+        "title": "Shaping the Future in an Evolving Financial Marketplace \u2014 Opening remarks by Interim Commissioner Werner Liedtke",
+        "date": "June 14, 2024",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2024/06/opening-remarks-interim-commissioner-werner-liedtke.html",
+        "summary": "Shaping the Future in an Evolving Financial Marketplace \u2014 Opening remarks by Interim Commissioner Werner Liedtke",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728313"
+    },
+    {
+        "id": "FCAC_-819241256152263713",
+        "title": "Remarks by the Commissioner of the Financial Consumer Agency of Canada at the Standing Committee on Finance regarding the Guideline on Existing Consumer Mortgage Loans in Exceptional Circumstances",
+        "date": "February 13, 2024",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2024/02/remarks-by-the-commissioner-of-the-financial-consumer-agency-of-canada-at-the-standing-committee-on-finance-regarding-the-guideline-on-existing-con.html",
+        "summary": "Speech regarding the Guideline on Existing Consumer Mortgage Loans in Exceptional Circumstances",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728326"
+    },
+    {
+        "id": "FCAC_2799184250542314129",
+        "title": "Financial Literacy Month 2023: Managing Your Money in a Changing World",
+        "date": "November 01, 2023",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2023/10/financial-literacy-month-2023-managing-your-money-in-a-changing-world.html",
+        "summary": "Financial Literacy Month 2023: Managing Your Money in a Changing World",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728339"
+    },
+    {
+        "id": "FCAC_-6207692159731978790",
+        "title": "Designation of Canada\u2019s single external complaints body for banking",
+        "date": "October 17, 2023",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2023/10/designation-dun-organisme-externe-de-traitement-des-plaintes-unique-pour-le-secteur-bancaire-au-canada.html",
+        "summary": "Designation of Canada\u2019s single external complaints body for banking",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728352"
+    },
+    {
+        "id": "FCAC_-6877239704935655019",
+        "title": "Financial Consumer Agency of Canada publishes industry guideline to help protect Canadians with existing mortgages",
+        "date": "July 05, 2023",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2023/06/financial-consumer-agency-of-canada-publishes-industry-guideline-to-help-protect-canadians-with-existing-mortgages.html",
+        "summary": "Financial Consumer Agency of Canada publishes industry guideline to help protect Canadians with existing mortgages",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728365"
+    },
+    {
+        "id": "FCAC_-1947254978758600287",
+        "title": "Backgrounder: Financial Consumer Agency of Canada Guideline on Existing Consumer Mortgage Loans in Exceptional Circumstances",
+        "date": "July 05, 2023",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2023/06/financial-consumer-agency-of-canada-guideline-on-existing-consumer-mortgage-loans-in-exceptional-circumstances.html",
+        "summary": "Backgrounder: Financial Consumer Agency of Canada Guideline on Existing Consumer Mortgage Loans in Exceptional Circumstances",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728379"
+    },
+    {
+        "id": "FCAC_6590945339731031644",
+        "title": "Media availability on the Guideline on existing consumer mortgage loans in exceptional circumstances",
+        "date": "June 30, 2023",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2023/06/media-availability-on-the-guideline-on-existing-consumer-mortgage-loans-in-exceptional-circumstances.html",
+        "summary": "Media availability on the Guideline on existing consumer mortgage loans in exceptional circumstances",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728394"
+    },
+    {
+        "id": "FCAC_3758535178206411830",
+        "title": "Speech given by Jason Bouzanis, Assistant Commissioner, Public Affairs \u2014 Financial Education Day of the Autorit\u00e9 des march\u00e9s financiers",
+        "date": "June 28, 2023",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2023/06/speech-given-by-jason-bouzanis-assistant-commissioner-public-affairs--financial-education-day-of-the-autorite-des-marches-financiers.html",
+        "summary": "Speech given by Jason Bouzanis, Assistant Commissioner, Public Affairs \u2014  Financial Education Day of the Autorit\u00e9 des march\u00e9s financiers",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728406"
+    },
+    {
+        "id": "FCAC_-2673865201135176366",
+        "title": "Strong consumer protection and consumer education will be important for open banking in Canada",
+        "date": "June 01, 2023",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2023/05/strong-consumer-protection-and-consumer-education-will-be-important-for-open-banking-in-canada-fcac-survey-shows-canadians-knowledge-and-understand.html",
+        "summary": "Strong consumer protection and consumer education will be important for open banking in Canada  \n\nFCAC survey shows Canadians\u2019 knowledge and understanding of open banking is low",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728421"
+    },
+    {
+        "id": "FCAC_4538814815208952083",
+        "title": "FCAC launches call for applications for Canada\u2019s single external complaints body for banking",
+        "date": "May 11, 2023",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2023/05/fcac-launches-call-for-applications-for-canadas-single-external-complaints-body-for-banking.html",
+        "summary": "FCAC launches call for applications for Canada\u2019s single external complaints body for banking",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728434"
+    },
+    {
+        "id": "FCAC_-3729939015520866535",
+        "title": "Statement by FCAC Commissioner: Making change that counts this International Women\u2019s Day",
+        "date": "March 08, 2023",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2023/03/statement-by-fcac-commissioner-making-change-that-counts-this-international-womens-day.html",
+        "summary": "Statement by FCAC Commissioner: Making change that counts this International Women\u2019s Day",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728447"
+    },
+    {
+        "id": "FCAC_-2628297671195474585",
+        "title": "Speech by Commissioner Judith Robertson\u00a0 \u0336\u00a0 CPA Canada Mastering Money Conference",
+        "date": "December 01, 2022",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2022/12/speech-by-commissioner-judith-robertson--cpa-canada-mastering-money-conference.html",
+        "summary": "Speech by Commissioner Judith Robertson  \u0336  CPA Canada Mastering Money Conference",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728460"
+    },
+    {
+        "id": "FCAC_-7680012455516414424",
+        "title": "Statement to entities engaging in crypto-asset activities or crypto-related services",
+        "date": "November 16, 2022",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2022/11/statement-to-entities-engaging-in-crypto-asset-activities-or-crypto-related-services0.html",
+        "summary": "Statement to entities engaging in crypto-asset activities or crypto-related services",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728473"
+    },
+    {
+        "id": "FCAC_7907845611617588404",
+        "title": "Speech by Commissioner Judith Robertson\u00a0for the\u00a0Launch of Financial Literacy Month",
+        "date": "November 07, 2022",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2022/11/speech-by-commissioner-judith-robertson-launch-of-financial-literacy-month.html",
+        "summary": "Speech by Commissioner Judith Robertson for the Launch of Financial Literacy Month",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728486"
+    },
+    {
+        "id": "FCAC_-6979795329507698409",
+        "title": "Financial Literacy Month 2022 Kick-Off",
+        "date": "November 01, 2022",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2022/10/financial-literacy-month-2022-kick-off0.html",
+        "summary": "Financial Literacy Month 2022 Kick-Off \nFinancial Consumer Agency of Canada and organizations across the country focus on advancing the National Financial Literacy Strategy and helping Canadians manage debt.",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728499"
+    },
+    {
+        "id": "FCAC_6489026401110258847",
+        "title": "Financial Literacy Month virtual launch event",
+        "date": "October 31, 2022",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2022/10/october-31-2022--repeat-nov-1-ottawa-ontario.html",
+        "summary": "Financial Literacy Month virtual launch event From: Financial Consumer Agency of Canada",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728512"
+    },
+    {
+        "id": "FCAC_2354137341021274883",
+        "title": "Statement from FCAC on the publication of independent evaluations of external complaints bodies",
+        "date": "September 01, 2022",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2022/08/statement-from-fcac-on-the-publication-of-independent-evaluations-of-external-complaints-bodies.html",
+        "summary": "Impartial and effective complaint handling is an important contributor to consumer protection and enhances consumer confidence in financial institutions and the financial system.",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728525"
+    },
+    {
+        "id": "FCAC_-2629162281701415199",
+        "title": "New and enhanced protections for bank customers",
+        "date": "June 30, 2022",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2022/06/new-and-enhanced-protections-for-bank-customers-protections-take-effect-june-30-as-part-of-canadas-new-financial-consumer-protection-framework.html",
+        "summary": "Starting June 30, Canadians will benefit from new and enhanced protections in their dealings with banks. The protections fulfil commitments made by the federal government in 2018 to introduce a new Financial Consumer Protection Framework (Framework) in the Bank Act.",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728538"
+    },
+    {
+        "id": "FCAC_-557878589000820513",
+        "title": "FCAC mystery shopping report shows banks need to do more to ensure positive outcomes for all consumers",
+        "date": "May 26, 2022",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2022/05/fcac-mystery-shopping-report-shows-banks-need-to-do-more-to-ensure-positive-outcomes-for-all-consumers.html",
+        "summary": "Today, the Financial Consumer Agency of Canada (FCAC) released the results of a mystery shopping exercise conducted at Canada\u2019s 6 largest banks.",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728551"
+    },
+    {
+        "id": "FCAC_6818126042723879192",
+        "title": "Opening remarks by Judith Robertson, Commissioner, Financial Consumer Agency of Canada,\u202ffor\u202fthe 2022 Payments Canada SUMMIT",
+        "date": "May 04, 2022",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2022/05/opening-remarks-by-judith-robertson-commissioner-financial-consumer-agency-of-canadaforthe-2022-payments-canada-summit.html",
+        "summary": "FCAC\u2019s role is to protect consumers of financial products and services and we do that by overseeing compliance by federally regulated financial institutions with consumer protection and market conduct requirements.",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728563"
+    },
+    {
+        "id": "FCAC_-3686799965492316656",
+        "title": "Breaking gender bias in the financial world",
+        "date": "March 08, 2022",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2022/03/breaking-gender-bias-in-the-financial-world.html",
+        "summary": "Breaking gender bias in the financial world",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728576"
+    },
+    {
+        "id": "FCAC_-3762287282074463012",
+        "title": "Opening remarks by Judith Robertson, Commissioner, Financial Consumer Agency of Canada,\u00a0for the ABLE Fall Virtual Series",
+        "date": "December 17, 2021",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2021/12/opening-remarks-by-judith-robertson-commissioner-financial-consumer-agency-of-canadafor-the-able-fall-learning-virtual-series0.html",
+        "summary": "As many of you know, the mandate of the Financial Consumer Agency of Canada \u2014 or FCAC \u2014 is to protect financial consumers.",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728589"
+    },
+    {
+        "id": "FCAC_3023895869463143701",
+        "title": "Opening remarks by Judith Robertson, Commissioner, Financial Consumer Agency of Canada, Launch of Financial Literacy Month, November 1, 2021",
+        "date": "November 05, 2021",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2021/11/opening-remarks-for-the-flm-2021-virtual-launch-event--commissioner-judith-robertson-financial-consumer-agency-of-canada-november-1-2021.html",
+        "summary": "I\u2019m Judith Robertson, the Commissioner of the Financial Consumer Agency of Canada.I\u2019m delighted to be with you to launch the 2021 edition of Financial Literacy Month.",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728604"
+    },
+    {
+        "id": "FCAC_-2871403513929467899",
+        "title": "FCAC launches Financial Literacy Month 2021",
+        "date": "November 01, 2021",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2021/10/fcac-launches-financial-literacy-month-2021.html",
+        "summary": "Today, FCAC Commissioner Judith Robertson is launching the 11th annual Financial Literacy Month at a national virtual event, bringing together people and organizations from across the country that share a commitment to advancing financial literacy in Canada.",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728618"
+    },
+    {
+        "id": "FCAC_-562432732769351614",
+        "title": "Media advisory: Judith Robertson, Commissioner of the Financial Consumer Agency of Canada, to launch Financial Literacy Month 2021",
+        "date": "November 01, 2021",
+        "link": "https://www.canada.ca/en/financial-consumer-agency/news/2021/10/media-advisory-judith-robertson-commissioner-of-the-financial-consumer-agency-of-canada-to-launch-financial-literacy-month-2021.html",
+        "summary": "Judith Robertson, Commissioner of the Financial Consumer Agency of Canada (FCAC), will launch the 11th annual Financial Literacy Month at a virtual event on Monday, November 1 at 1:00 p.m ET.",
+        "source": "FCAC",
+        "type": "RSS Feed",
+        "timestamp": "2026-02-24T05:25:24.728630"
+    },
+    {
+        "id": "IAIS_-2242006225464335443",
+        "title": "Final version of the Application Paper on operational resilience objectives and toolkit published",
+        "date": "February 24, 2026",
+        "link": "https://www.iais.org/2026/02/final-version-of-the-application-paper-on-operational-resilience-objectives-and-toolkit-published/",
+        "summary": "The final paper, which takes on board feedback received during public consultation, will promote ins...",
+        "source": "IAIS",
+        "type": "Web Scraping",
+        "timestamp": "2026-02-24T05:36:29.803872"
+    },
+    {
+        "id": "IAIS_-6215362770702989857",
+        "title": "FSI and IAIS publish joint Insights note on insurance supervisory resources",
+        "date": "February 24, 2026",
+        "link": "https://www.iais.org/2026/02/fsi-and-iais-publish-joint-insights-note-on-insurance-supervisory-resources/",
+        "summary": "Staff from the IAIS and BIS\u2019s Financial Stability Institute (FSI) present the results of a survey on...",
+        "source": "IAIS",
+        "type": "Web Scraping",
+        "timestamp": "2026-02-24T05:36:29.803986"
+    },
+    {
+        "id": "IAIS_-621510612907925278",
+        "title": "The Minnesota Department of Commerce joins IAIS cooperation and information exchange agreement",
+        "date": "February 24, 2026",
+        "link": "https://www.iais.org/2026/02/the-minnesota-department-of-commerce-join-iais-cooperation-and-information-exchange-agreement/",
+        "summary": "We are pleased to announce that the Minnesota Department of Commerce has become a member of the IAIS...",
+        "source": "IAIS",
+        "type": "Web Scraping",
+        "timestamp": "2026-02-24T05:36:29.804062"
+    },
+    {
+        "id": "IAIS_1010813575314210725",
+        "title": "The Arizona Department of Insurance joins IAIS cooperation and information exchange agreement",
+        "date": "February 24, 2026",
+        "link": "https://www.iais.org/2026/02/the-arizona-department-of-insurance-joins-iais-cooperation-and-information-exchange-agreement/",
+        "summary": "Basel, Switzerland / Phoenix, Arizona, USA \u2013 The Arizona Department of Insurance and Financial Insti...",
+        "source": "IAIS",
+        "type": "Web Scraping",
+        "timestamp": "2026-02-24T05:36:29.804138"
+    },
+    {
+        "id": "IAIS_1777284347725770453",
+        "title": "IAIS Newsletter December 2025 \u2013 January 2026",
+        "date": "February 24, 2026",
+        "link": "https://www.iais.org/uploads/2026/01/IAIS-Newsletter-December-2025-January-2026.pdf",
+        "summary": "Read the highlights of the IAIS\u2019 work throughout the months of December and January.",
+        "source": "IAIS",
+        "type": "Web Scraping",
+        "timestamp": "2026-02-24T05:36:29.804207"
+    },
+    {
+        "id": "IAIS_-3200734790533844755",
+        "title": "IAIS publishes its Roadmap 2026-2027",
+        "date": "February 24, 2026",
+        "link": "https://www.iais.org/2026/01/iais-publishes-its-roadmap-2026-2027/",
+        "summary": "The Roadmap details the projects and activities that form the IAIS\u2019 upcoming workplan.",
+        "source": "IAIS",
+        "type": "Web Scraping",
+        "timestamp": "2026-02-24T05:36:29.804272"
+    },
+    {
+        "id": "IAIS_-3822892837231789568",
+        "title": "New Committees now operational: MRC, SSC and IAC",
+        "date": "1 January 2026",
+        "link": "https://www.iais.org/2026/01/new-committees-now-operational-mrc-ssc-and-iac/",
+        "summary": "The new IAIS Committee-level structure announced last year has become effective from 1 January 2026.",
+        "source": "IAIS",
+        "type": "Web Scraping",
+        "timestamp": "2026-02-24T05:36:29.804326"
+    },
+    {
+        "id": "IAIS_2951978297023543248",
+        "title": "ICS online tool available now",
+        "date": "February 24, 2026",
+        "link": "https://www.iais.org/2025/12/ics-online-tool-available-now/",
+        "summary": "The IAIS has launched an interactive online tool, providing an easy-to-access compendium of the Insu...",
+        "source": "IAIS",
+        "type": "Web Scraping",
+        "timestamp": "2026-02-24T05:36:29.804392"
+    },
+    {
+        "id": "IAIS_8553783250675160817",
+        "title": "IAIS Global Insurance Market Report 2025 highlights growth of investments in private credit, geoeconomic fragmentation and AI adoption as key supervisory priorities",
+        "date": "February 24, 2026",
+        "link": "https://www.iais.org/2025/12/iais-global-insurance-market-report-2025-highlights-growth-of-investments-in-private-credit-geoeconomic-fragmentation-and-ai-adoption-as-key-supervisory-priorities/",
+        "summary": "The report highlights the resilience of the global insurance sector and examines key sector-wide the...",
+        "source": "IAIS",
+        "type": "Web Scraping",
+        "timestamp": "2026-02-24T05:36:29.804460"
+    },
+    {
+        "id": "IAIS_-8819126900299583363",
+        "title": "IAIS Newsletter November 2025",
+        "date": "February 24, 2026",
+        "link": "https://www.iais.org/uploads/2025/11/IAIS-Newsletter-November-2025.pdf",
+        "summary": "Read the highlights of the IAIS\u2019 work throughout the month of November.",
+        "source": "IAIS",
+        "type": "Web Scraping",
+        "timestamp": "2026-02-24T05:36:29.804535"
+    }
+]
