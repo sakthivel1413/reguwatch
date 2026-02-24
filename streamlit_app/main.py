@@ -155,10 +155,16 @@ if auto_only:
     updates = [u for u in updates if "auto" in u['title'].lower() or "auto" in u['summary'].lower()]
 
 # Sorting Logic
+def get_sort_date(x):
+    try:
+        return pd.to_datetime(x.get('date', ''))
+    except:
+        return pd.to_datetime(x.get('timestamp', ''))
+
 if sort_option == "Date (Newest First)":
-    updates.sort(key=lambda x: x.get('timestamp', ''), reverse=True)
+    updates.sort(key=get_sort_date, reverse=True)
 elif sort_option == "Date (Oldest First)":
-    updates.sort(key=lambda x: x.get('timestamp', ''), reverse=False)
+    updates.sort(key=get_sort_date, reverse=False)
 elif sort_option == "Title (A-Z)":
     updates.sort(key=lambda x: x.get('title', '').lower())
 elif sort_option == "Title (Z-A)":
