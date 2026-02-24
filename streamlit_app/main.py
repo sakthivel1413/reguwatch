@@ -164,15 +164,16 @@ elif sort_option == "Title (A-Z)":
 elif sort_option == "Title (Z-A)":
     updates.sort(key=lambda x: x.get('title', '').lower(), reverse=True)
 
-# Display
-if not updates:
-    st.info("No regulations found matching your current filters.")
-else:
-    col1, col2 = st.columns([8, 2])
-    with col2:
-        st.write(f"**Results:** {len(updates)}")
+# Define Tabs
+tab1, tab2 = st.tabs(["🏛️ Regulatory Updates (OSFI/FCAC)", "📜 Insurance Standards (IAIS/ICPs)"])
+
+def display_updates(items):
+    if not items:
+        st.info("No items found matching your current filters in this category.")
+        return
     
-    for item in updates:
+    st.write(f"**Showing {len(items)} results**")
+    for item in items:
         is_auto = "auto" in item['title'].lower() or "auto" in item['summary'].lower()
         
         type_class = "badge-scraping" if "Scraping" in item['type'] else "badge-rss"
@@ -190,5 +191,15 @@ else:
             </div>
         """, unsafe_allow_html=True)
 
+with tab1:
+    # Regulators: OSFI, FCAC
+    reg_updates = [u for u in updates if u.get('source') in ["OSFI", "FCAC"]]
+    display_updates(reg_updates)
+
+with tab2:
+    # Standards: IAIS
+    std_updates = [u for u in updates if u.get('source') == "IAIS"]
+    display_updates(std_updates)
+
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: #64748b;'>ReguWatch Intelligence Dashboard | v2.0</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: #64748b;'>ReguWatch Intelligence Dashboard | v2.1</p>", unsafe_allow_html=True)
